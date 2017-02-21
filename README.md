@@ -4,6 +4,9 @@ A recursive Sudoku solver with very basic concurrency and a GUI.
 contains lots of colors beware!
 
 
+## Shots
+![alt tag](https://raw.githubusercontent.com/TheProthean/Sudoku-Project/master/GUI_1.png)
+
 ## License
 
 The icon is licensed under the GNU license,

@@ -25,6 +25,7 @@ public class GUI extends Sudoku
         Constants.q.setLayout(new FlowLayout()); //Found this to fit better
         Constants.q.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         Constants.q.setResizable(false);
+        setIcons();
         addComponents();
         Constants.q.pack();
         Constants.q.validate();
@@ -188,6 +189,15 @@ public class GUI extends Sudoku
         }
 
         return false;
+    }
+
+    private void setIcons()
+    {
+        File iconFile = new File("app_icon.png");
+        if (iconFile != null && iconFile.exists())
+        {
+            Constants.q.setIconImage(new ImageIcon(iconFile.getAbsolutePath()).getImage());
+        }
     }
 
 }

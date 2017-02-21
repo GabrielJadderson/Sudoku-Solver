@@ -10,4 +10,4 @@ The icon is licensed under the GNU license,
 
 but the entire source code is licensed under MIT license:
 
-MIT: http://rem.mit-license.org
+MIT: http://mit-license.org

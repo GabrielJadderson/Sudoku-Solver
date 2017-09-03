@@ -11,6 +11,6 @@ contains lots of colors beware!
 
 The icon is licensed under the GNU license,
 
-but the entire source code is licensed under MIT license so do whatever you want with the code!
+but the entire source code is licensed under MIT license, so do whatever you want with the code!
 
 MIT: http://mit-license.org
